@@ -26,8 +26,8 @@ Reading: [Slides](https://github.com/mattiasvillani/Stats4Text/raw/main/Slides/S
 Code: [demo TopicModels package in R](Code/TopicModels.R)
 
 ## Computer labs
-[Lab 1 - Intro to Python lab](https://github.com/mattiasvillani/StateSpaceModels/raw/main/Labs/PythonLab.pdf)
+[Lab 1 - Intro to Python lab](https://github.com/mattiasvillani/Stats4Text/raw/main/Labs/PythonLab.pdf)
 
-[Lab 2 - Statistics for text lab](https://github.com/mattiasvillani/StateSpaceModels/raw/main/Labs/StatisticsLab1.pdf)
+[Lab 2 - Statistics for text lab](https://github.com/mattiasvillani/Stats4Text/raw/main/Labs/StatisticsLab1.pdf)
 
 
