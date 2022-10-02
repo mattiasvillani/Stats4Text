@@ -11,7 +11,7 @@ This repo contains material for some lectures on statistical analysis of text wh
 
 ## Lectures
 **Lecture 0 - Introduction to Python**\
-Reading: [Slides](https://github.com/mattiasvillani/Stats4Text/raw/main/Slides/PythonL1.pdf)\ 
+Reading: [Slides](https://github.com/mattiasvillani/Stats4Text/raw/main/Slides/PythonL1.pdf)\
 Code: [demo to NLTK Python package](Code/Intro2NLTK.py)
 
 **Lecture 1 - Language models**\
